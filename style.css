@@ -1,80 +1,49 @@
-/* Reset some default styles */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  
-  /* Basic styling for the dashboard header */
-  header {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 20px;
-  }
-  
-  /* Styling for the navigation menu */
-  nav {
-    background-color: #444;
-    color: #fff;
-    padding: 10px;
-  }
-  
-  nav ul {
-    list-style: none;
+body {
     display: flex;
     justify-content: center;
-  }
-  
-  nav li {
-    margin: 0 20px;
-  }
-  
-  nav a {
-    text-decoration: none;
-    color: #fff;
-    font-weight: bold;
-    transition: color 0.3s;
-  }
-  
-  nav a:hover {
-    color: #00bcd4;
-  }
-  
-  /* Styling for the dashboard content section */
-  #dashboard-content {
-    padding: 20px;
-  }
-  
-  /* Add more CSS rules for specific dashboard components and widgets */
-  
-  /* Example for a card-style component */
-  .card {
-    background-color: #fff;
-    border: 1px solid #ccc;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: gray;
+}
+
+.container {
+    text-align: center;
+}
+
+.rectangle {
+    background-color: black;
+    border: 10px solid black;
     border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  }
-  
-  /* Example for a button */
-  .button {
-    background-color: #00bcd4;
-    color: #fff;
-    border: none;
+    width: 300px;
+    margin: 0 auto;
+    width: 300px;
+    height: 100px;
+    background-color: gray;
+}
+
+button {
+    margin: 10px;
     padding: 10px 20px;
-    border-radius: 5px;
+    border: none;
     cursor: pointer;
-    transition: background-color 0.3s;
-  }
-  
-  .button:hover {
-    background-color: #0097a7;
-  }
-  
-  /* Add more CSS for your specific dashboard components, layouts, and styles */
-  
-  /* Media queries for responsive design */
-  @media screen and (max-width: 768px) {
-    /* Add responsive styling here */
-  }
+}
+
+#yesButton {
+    background-color: #007BFF;
+    color: #fff;
+}
+
+#noButton {
+    background-color: #dc3545;
+    color: #fff;
+}
+#nextButton {
+    background-color: #007BFF;
+    border-radius: 20px;
+    width: 60px;
+    height: 30px;
+    
+}
