@@ -5,12 +5,12 @@
 
 ### I hope you have a pleasant and joyous holiday season.
 
-| Names  | Ranks |  | Assets |
+| Names  | Ranks | Assets |
 | ------------- | ------------- | ------------- |
-| **ISHIMWE GAD**  | *CIC*  |  | $1.7 mmillion us dollars |
-| **ISINGIZWE CHRIS**  | *Sergeant*  |  | $500 us dollars |
-| **WILSON JAMES**  | *Captain*  |  | $1.7 mmillion us dollars |
-| **AGABE WILLY**  | *Major*  |  | $500 us dollars |
+| **ISHIMWE GAD**  | *CIC*  | $1.7 million us dollars |
+| **ISINGIZWE CHRIS**  | *Sergeant* | $500 us dollars |
+| **WILSON JAMES**  | *Captain* | $700 us dollars |
+| **AGABE WILLY**  | *Major* | $300 us dollars |
 
 ## Psalm 63:1-5 NIV
 
