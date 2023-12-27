@@ -1,9 +1,9 @@
 # Ishimwe Gad<br>
 ## Updated or still under update as of Wednesday, December 27, 2023<br>Under Dev, 2320. RD. 52.
 
-### By coincidence, this paper was discovered in a train station on the way from New York City to Chappaqua, Westchester, New York. If that’s the case, many people are grateful.
+ By coincidence, this paper was discovered in a train station on the way from New York City to Chappaqua, Westchester, New York. If that’s the case, many people are grateful.
 
-### I hope you have a pleasant and joyous holiday season.
+ I hope you have a pleasant and joyous holiday season.
 
 | Names  | Ranks | Assets |
 | ------------- | ------------- | ------------- |
@@ -11,6 +11,10 @@
 | **ISINGIZWE CHRIS**  | *Sergeant* | $500 us dollars |
 | **WILSON JAMES**  | *Captain* | $700 us dollars |
 | **AGABE WILLY**  | *Major* | $300 us dollars |
+
+## Education
+Software Development Ph.D. Student, Harvard University, New York, United States.<br>
+He holds a bachelor’s degree in Information Technology and a Master of Science in Engineering. He is a graduate of Ottawa University, Canada.
 
 ## Psalm 63:1-5 NIV
 
