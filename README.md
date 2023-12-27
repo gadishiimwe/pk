@@ -16,6 +16,12 @@
 Software Development Ph.D. Student, Harvard University, New York, United States.<br>
 He holds a bachelor’s degree in Information Technology and a Master of Science in Engineering. He is a graduate of Ottawa University, Canada.
 
+## I.T Certification
+Udemy, Programiz Certified
+
+## Languages
+English, Swahili, Kinyarwanda
+
 ## Psalm 63:1-5 NIV
 
 #### You, God, are my God, earnestly I seek you; I thirst for you, my whole being longs for you, in a dry and parched land where there is no water.
