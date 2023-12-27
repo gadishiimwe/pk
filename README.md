@@ -1,5 +1,6 @@
 # Ishimwe Gad<br>
-![Estetik](https://github.com/gadishiimwe/home/assets/135014965/a3e614ae-255e-4a4a-b90a-59e4c57acf8b)
+<image-crop src="![Estetik](https://github.com/gadishiimwe/home/assets/135014965/a3e614ae-255e-4a4a-b90a-59e4c57acf8b)"></image-crop>
+
 ## Updated or still under update as of Wednesday, December 27, 2023<br>Under Dev, 2320. RD. 52.
 
  By coincidence, this paper was discovered in a train station on the way from New York City to Chappaqua, Westchester, New York. If that’s the case, many people are grateful.
