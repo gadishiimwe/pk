@@ -1,5 +1,4 @@
 # Ishimwe Gad<br>
-![Estetik](https://github.com/gadishiimwe/home/assets/135014965/a3e614ae-255e-4a4a-b90a-59e4c57acf8b)
 ## Updated or still under update as of Today.
 
 
