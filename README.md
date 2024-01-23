@@ -2,15 +2,12 @@
 ## Updated or still under update as of Today.
 
 
-| Names  | Ranks | Assets |
-| ------------- | ------------- | ------------- |
-| **ISHIMWE GAD**  | *CIC*  | $1.7 million us dollars |
-| **ISINGIZWE CHRIS**  | *Sergeant* | $500 us dollars |
-| **WILSON JAMES**  | *Captain* | $700 us dollars |
-| **AGABE WILLY**  | *Major* | $300 us dollars |
+| Names  | TRADE | 
+| ------------- | ------------- |
+| **ISHIMWE GAD**  | *SOFTWARE DEVELOPER*  |
 
 ## Education
-Software Development Ph.D. Student, Harvard University, New York, United States.<br>
+Software Development GLORY Student, Harvard University, New York, United States.<br>
 
 ## I.T Certification
 Udemy, Programiz Certified
